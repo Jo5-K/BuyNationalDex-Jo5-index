@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T00:00:00Z",
+  "generated_at": "2026-09-12T00:00:00Z",
   "categories": [
     "GAMEPLAY"
   ],
   "mods": [
     {
-      "id": "givenationaldex",
-      "title": "GiveNationalDex",
-      "summary": "Expands Pokemon Crystal with a National Dex and modern Pokemon mechanics, species, forms, types, moves, items, evolutions and battle systems.",
+      "id": "buynationaldex",
+      "title": "BuyNationalDex-Jo5",
+      "summary": "Adds a Pokémon market and purchase system to Pokémon Crystal, integrating a National Dex, modern Pokémon data, sprites, pricing and Party/Box acquisition.",
       "author": "Jo5-K",
-      "version": "0.1.0",
-      "repo": "https://github.com/Jo5-K/GiveNationaldex---Gen1recomp-mod",
-      "github": "Jo5-K/GiveNationaldex---Gen1recomp-mod",
-      "folder": "givenationaldex",
+      "version": "dev-1",
+      "repo": "https://github.com/Jo5-K/BuyNationalDex-Jo5",
+      "github": "Jo5-K/BuyNationalDex-Jo5",
+      "folder": "BuyYourNationaldex-Jo5",
       "api": 2,
       "game_version": ">=0.0.0-dev <2.0.0",
       "games": [
@@ -25,6 +25,8 @@
       ],
       "tags": [
         "national-dex",
+        "pokemon-market",
+        "pokemon-purchase",
         "pokemon-crystal",
         "gen2",
         "mechanics",
@@ -39,14 +41,14 @@
       "affects_link": false,
       "experimental": true,
       "latest": {
-        "version": "0.1.0",
-        "tag": "v0.1.0",
-        "name": "0.1.0",
-        "prerelease": false,
+        "version": "dev-1",
+        "tag": "dev-1",
+        "name": "Dev 1",
+        "prerelease": true,
         "zip": {
-          "name": "givenationaldex-0.1.0.zip",
-          "url": "https://github.com/Jo5-K/GiveNationaldex---Gen1recomp-mod/releases/download/v0.1.0/givenationaldex-0.1.0.zip",
-          "size": 785165854
+          "name": "BuyNationalDex-Jo5-dev-1.zip",
+          "url": "https://github.com/Jo5-K/BuyNationalDex-Jo5/releases/download/dev-1/BuyNationalDex-Jo5-dev-1.zip",
+          "size": 0
         }
       },
       "update_check": "ok"
